@@ -1,4 +1,5 @@
-# shellscriptschool
-Shell script shcool
+# Shell scripts school
 
-Varius shell scrip examples to learn by doing. Feel free to copy and modify
+Shell script shcool is a repo to share code.
+
+Varius shell script examples to learn by doing. Feel free to copy, modify and share.
